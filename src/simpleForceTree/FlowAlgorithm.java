@@ -1,4 +1,4 @@
-package basic;
+package simpleForceTree;
 
 /**
  * Simmple graph layout system

@@ -1,4 +1,4 @@
-package basic;
+package simpleForceTree;
 
 import processing.core.PApplet;
 
@@ -145,6 +145,6 @@ void makeTree()
   t.addChild(cbbb, cbbbb);
 }
 		 public static void main(String args[]) {
-		    PApplet.main(new String[] { "--present", "basic.ForceTree" });
+		    PApplet.main(new String[] { "--present", "simpleForceTree.ForceTree" });
 		  }
 }

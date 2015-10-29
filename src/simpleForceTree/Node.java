@@ -1,4 +1,4 @@
-package basic;
+package simpleForceTree;
 
 import java.util.ArrayList;
 /**
